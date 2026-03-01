@@ -16,9 +16,13 @@ The main goal is to extract meaningful insights using data visualization and sta
 ## 🚀 Key Features
 
 ✔ Data Cleaning & Preprocessing
+
 ✔ Time-series analysis of COVID-19 trends
+
 ✔ Country-wise comparison
+
 ✔ Visual analytics using graphs & plots
+
 ✔ Statistical exploration of pandemic patterns
 
 ---
@@ -144,4 +148,5 @@ Feel free to fork this repository and contribute improvements!
 
 **Tanya Deep**
 📌 Data Science Student
+
 📌 Exploring Data Analytics & Machine Learning

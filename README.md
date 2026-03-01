@@ -1,4 +1,4 @@
-📊 COVID-19 Exploratory Data Analysis Tracker
+# 📊 COVID-19 Exploratory Data Analysis Tracker
 
 ## 🧠 Project Overview
 
@@ -145,26 +145,3 @@ Feel free to fork this repository and contribute improvements!
 **Tanya Deep**
 📌 Data Science Student
 📌 Exploring Data Analytics & Machine Learning
-
----
-
-# ⭐ PRO TIP (important for you)
-
-Since you want your GitHub to look **top-tier**, I strongly recommend adding:
-
-* 🔥 3–4 screenshot graphs from your notebook
-* 📈 Key insight bullet points
-* 🌍 One global map visualization (if possible)
-
-This instantly makes recruiters stop scrolling.
-
----
-
-If you want, I can also give you a **🔥 “Top 1% GitHub-style” README version** with:
-
-* badges
-* animated headers
-* modern layout
-* recruiter-friendly visuals
-
-Just say the word 😉

@@ -90,14 +90,10 @@ The project uses publicly available COVID-19 datasets containing:
 
 You can add output plots here:
 
-```
-
 <img width="604" height="453" alt="image" src="https://github.com/user-attachments/assets/60a1860d-71ff-495b-a4b6-457b15ccaff2" />
 <img width="604" height="453" alt="image" src="https://github.com/user-attachments/assets/bbfb4532-9c55-494c-8a4b-5a4c829b22f5" />
 <img width="604" height="453" alt="image" src="https://github.com/user-attachments/assets/77f26ca5-a526-454c-8fb1-a74381d75440" />
 <img width="585" height="453" alt="image" src="https://github.com/user-attachments/assets/74b794a1-eb0a-423a-af0b-48ba13c05e11" />
-
-```
 
 ---
 
